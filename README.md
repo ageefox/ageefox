@@ -1,6 +1,6 @@
 # Hi, I'm Anastasia
 
-I study computer science and economics in Chicago. I'm interested in applied machine learning, data systems, and the practical work that makes technical results trustworthy: sensible baselines, careful evaluation, reproducible runs, and tests.
+I build applied machine learning and data projects, drawing on a background in computer science and economics. I care about clear evaluation, reproducible results, and software that holds up beyond a demo.
 
 ## Selected work
 
